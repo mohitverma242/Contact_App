@@ -1,0 +1,10 @@
+.footerContainer{
+    width: 100vw;
+    height: 20px;
+    background-image: linear-gradient(blue,aqua);
+    text-align: center;
+    bottom: 0;
+    color: white;
+    border: 2px solid black;
+    position: fixed;
+}
